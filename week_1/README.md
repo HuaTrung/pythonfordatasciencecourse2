@@ -74,6 +74,11 @@ You should write an algorithm that returns the best 10 stops in your opinion .
     - TRUMBULL ST
     - ERIE ST
 
+    
+    Map Planar Graph
+
+    ![Image description](images/result_week1.png)
+
 
 
 
