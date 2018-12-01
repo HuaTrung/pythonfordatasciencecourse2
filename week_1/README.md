@@ -77,7 +77,7 @@ You should write an algorithm that returns the best 10 stops in your opinion .
     
     Map Planar Graph
 
-    ![Image description](images/result_week1.png)
+    ![Image description](images/result.png)
 
 
 
