@@ -9,8 +9,6 @@ You have been given 2 dataset files. They contains:
 You should write an algorithm that returns the best 10 stops in your opinion .
 >Simplify, It has a high probability of being the best stops.
 
-## AT FIRST SIGHT
-
 1. Convert data to coordinates
 
     * Using https://developer.here.com API to get coordinates from address's employee and from intersection streets ( bus stop ).
@@ -77,7 +75,7 @@ You should write an algorithm that returns the best 10 stops in your opinion .
     
     Map Planar Graph
 
-    ![Image description](images/result_week1.png)
+    ![Image description](images/result.png)
 
 
 
